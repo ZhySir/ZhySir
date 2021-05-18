@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**码云同步：[https://gitee.com/ZhySir](https://gitee.com/ZhySir)**
-
 ![ZhySir's github stats](https://github-readme-stats.vercel.app/api?username=ZhySir&show_icons=true&include_all_commits=true&hide=issues,prs)
 
 ```
