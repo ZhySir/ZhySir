@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/📖%20Blog-ZhySir-brightness.svg" />
   </a>
   <a href="https://github.com/ZhySir">
-    <img src="https://komarev.com/ghpvc/?username=ZhySir&color=brightgreen&label=👁%20Views" />
+    <img src="https://komarev.com/ghpvc/?username=ZhySir&color=brightgreen&label=👁%20Views " />
   </a>  
 </p>
 
