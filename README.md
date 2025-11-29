@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ZhySir">
-    <img src="https://github-readme-stats.vercel.app/api?username=ZhySir&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ZhySir&show_icons=true&include_all_commits=true&hide=issues,prs" />
   </a>
 </p>
 
@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/📖%20Blog-ZhySir-brightness.svg" />
   </a>
   <a href="https://github.com/ZhySir">
-    <img src="https://komarev.com/ghpvc/?username=ZhySir&color=brightgreen&label=👁%20Views " />
+    <img src="https://komarev.com/ghpvc/?username=ZhySir&color=brightgreen&label=👁%20Views" />
   </a>  
 </p>
 
@@ -36,6 +36,8 @@
 │ └─────┴────┴────┴───────────────────────┴────┴────┴────┴────┘ └───┴───┴───┘ └───────┴───┴───┘ │
 └───────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
+
+https://github-readme-stats.vercel.app/api?username=ZhySir&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue
 
 **ZhySir/ZhySir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
